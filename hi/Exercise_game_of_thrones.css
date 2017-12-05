@@ -1,0 +1,65 @@
+body{
+    background-color: #196666;
+    box-shadow: 3px 3px 10px black;
+}
+.square {
+    background:linear-gradient(to right,#196666,#d6f5f5);
+
+}
+
+
+h5{
+
+    color:aqua;
+    font-size:28px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+h3{
+
+    color:aqua;
+    font-size:28px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+h4{
+
+    color:aqua;
+    font-size:28px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+h2{
+    font-size:28px;
+
+    color:aqua;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+h6{
+    font-size:18px;
+
+    color:red;
+    text-align: center;
+
+
+}
+
+
+
+#created{
+
+    color:darkblue;
+    font-size:15px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+button{
+    background-color:aquamarine;
+    text-shadow: 5px 5px 10px black;
+    font-size: 15px;
+}
