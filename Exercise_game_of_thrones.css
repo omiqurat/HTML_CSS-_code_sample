@@ -63,3 +63,13 @@ button{
     text-shadow: 5px 5px 10px black;
     font-size: 15px;
 }
+
+ul <li {
+
+    color:darkgreen;
+    font-size:10px
+}
+ul > li {
+
+    color:darkgoldenrod;
+}
