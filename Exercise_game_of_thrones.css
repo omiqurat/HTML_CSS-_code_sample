@@ -1,3 +1,4 @@
+
 body{
     background-color: #196666;
     box-shadow: 3px 3px 10px black;
@@ -8,12 +9,13 @@ body{
 }
 
 
-h5,h3{
+h5,h3,h4{
 
     color:aqua;
     font-size:28px;
     text-align: center;
     text-shadow: 5px 5px 10px black;
+    font-family: "Coda";
 }
 
 
@@ -21,17 +23,10 @@ h5,h3{
 
     border: 50px dashed red;
 }
-h4{
-
-    color:aqua;
-    font-size:28px;
-    text-align: center;
-    text-shadow: 5px 5px 10px black;
-}
 
 h2{
     font-size:28px;
-
+    font-family: "Lalezar";
     color:aqua;
     text-align: center;
     text-shadow: 5px 5px 10px black;
@@ -45,7 +40,7 @@ h6{
 
 }
 
-
+/* For grouping  class, header , Id    for same attribute use ','  , for example h1,h2,h3,#created  */
 
 #created{
 
@@ -61,11 +56,18 @@ button{
     font-size: 15px;
 }
 
+/*
+All child of list will be this attribute
+
+*/
+
 ul li {
 
     color:darkblue;
     font-size:15px;
 }
+/* inherit direct child of unorder list */
+
 ul > li {
 
     color:darkgoldenrod;
