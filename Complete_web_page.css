@@ -25,7 +25,14 @@ nav ul{
     padding:0;
     
 }
-ul.topnav-list li{
+ul.topnav li{
     list-style: none;
     float: left;
+    padding:5px;
+}
+
+ul.topnav li.topnav_right{
+    float: right;
+    padding:5px;
+
 }
